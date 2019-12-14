@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">RevQuizSound</string>
+    <string name="kaitou_text_value">解答くん</string>
+    <string name="kaitou_button_value">答える！！</string>
+    <string name="change_button1_value">出題くん</string>
+    <string name="change_button2_value">解答くん</string>
+    <string name="matigai_button_value">まちがい</string>
+    <string name="syutudai_button_value">しゅつだい</string>
+    <string name="seikai_button_value">せいかい</string>
+    <string name="hakusyu_button_value">はくしゅ</string>
 </resources>
